@@ -14,15 +14,15 @@ The main Arduino board we will be working with is the [Adafruit Itsy Bity](https
 - capacitive sensing (touch). 
 
 ## Examples of Interactive work 
-[Random International: Audience 2008](https://www.random-international.com/audience-2008)
-[Light Kinetcs Sculpture](https://www.creativeapplications.net/processing/light-kinetics-interactive-light-using-a-physics-simulator/)
-[Andreas Gysin](https://www.creativeapplications.net/js/novoline-7/)
-[Andreas Refsgaard: Eye Conductor](http://andreasrefsgaard.dk/project/eye-conductor/)
+- [Random International: Audience 2008](https://www.random-international.com/audience-2008)
+- [Light Kinetcs Sculpture](https://www.creativeapplications.net/processing/light-kinetics-interactive-light-using-a-physics-simulator/)
+- [Andreas Gysin](https://www.creativeapplications.net/js/novoline-7/)
+- [Andreas Refsgaard: Eye Conductor](http://andreasrefsgaard.dk/project/eye-conductor/)
 
 
 ## Useful Components and Websites to buy from. 
-[Pimoroni](https://shop.pimoroni.com/)
-[Coolcomponents](https://coolcomponents.co.uk/)
-[Adafruit Itsy Bitsy M4](https://shop.pimoroni.com/products/adafruit-itsybitsy-m4-express-featuring-atsamd51)
-[Breadboard](https://shop.pimoroni.com/products/solderless-breadboard-400-point)
+- [Pimoroni](https://shop.pimoroni.com/)
+- [Coolcomponents](https://coolcomponents.co.uk/)
+- [Adafruit Itsy Bitsy M4](https://shop.pimoroni.com/products/adafruit-itsybitsy-m4-express-featuring-atsamd51)
+- [Breadboard](https://shop.pimoroni.com/products/solderless-breadboard-400-point)
 
