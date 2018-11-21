@@ -7,7 +7,7 @@ void draw(){
 background(col);
 
 
-switch(key){
+switch(keyCode){
 
 case 'u':
 col=color(255,200,0);

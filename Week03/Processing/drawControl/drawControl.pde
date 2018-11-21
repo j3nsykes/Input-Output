@@ -10,26 +10,7 @@ rectMode(CENTER);
 void draw(){
 background(50); //remove if want to see the traces. 
 
-//continous
-//switch(key){
 
-//case 'u':
-//posY--;
-//break;
-
-//case 'd':
-//posY++;
-//break;
-
-//case 'l':
-//posX--;
-//break;
-
-//case 'r':
-//posX++;
-//break;
-
-//}
 noStroke();
 fill(255);
 rect(posX,posY,50,50);
@@ -37,21 +18,21 @@ rect(posX,posY,50,50);
 }
 
 void keyPressed(){
-switch(key){
+switch(keyCode){
 
-case 'u':
+case UP:
 posY--;
 break;
 
-case 'd':
+case DOWN:
 posY++;
 break;
 
-case 'l':
+case LEFT:
 posX--;
 break;
 
-case 'r':
+case RIGHT:
 posX++;
 break;
 
