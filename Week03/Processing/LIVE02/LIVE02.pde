@@ -23,8 +23,8 @@ void draw() {
     //stroke(100);
 
     for (int i=0; i<10; i++) {
-      
-      color col=color(random(255),55);
+
+      color col=color(random(255), 55);
       stroke(col);
       float posX=random(500);
       float posY=random(500);
@@ -33,4 +33,7 @@ void draw() {
       ellipse(posX, posY, w, w);
     }
   }
+  //fill(0);
+  //textSize(random(100));
+  //text("HELLO", 10, 100);
 }

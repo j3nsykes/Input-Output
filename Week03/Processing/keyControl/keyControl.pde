@@ -9,19 +9,21 @@ background(col);
 
 switch(keyCode){
 
-case 'u':
+case UP:
+//do something 
 col=color(255,200,0);
 break;
 
-case 'd':
+case DOWN:
+//do something different 
 col=color(100,200,100);
 break;
 
-case 'l':
+case LEFT:
 col=color(255,30,200);
 break;
 
-case 'r':
+case RIGHT:
 col=color(55,200,200);
 break;
 

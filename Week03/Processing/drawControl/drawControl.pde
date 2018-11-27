@@ -5,14 +5,15 @@ int posY=250;
 void setup(){
 size(500,500);
 rectMode(CENTER);
+background(50); //remove if want to see the traces. 
 }
 
 void draw(){
-background(50); //remove if want to see the traces. 
 
 
-noStroke();
-fill(255);
+strokeWeight(0.05);
+stroke(255);
+noFill();
 rect(posX,posY,50,50);
 
 }
